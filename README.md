@@ -1,6 +1,6 @@
 # bayesian_ABtesting
 
-## bayesian vs frequentist (a very general understanding)
+## Bayesian vs Frequentist (a very general understanding)
 
 In the frequentists' world, the result/parameters we are trying to find is fixed. The parameter is an unknown constant which could lie within a interval. Some popular techniques used by frequentists are maximum likelihood estimation, confidence interval and hypothesis testing
 
